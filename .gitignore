@@ -1,2 +1,5 @@
 /test.py
+/biodata_app.py
 *.txt
+*.html
+*.log

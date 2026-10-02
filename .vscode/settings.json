@@ -1,4 +1,5 @@
 {
     "editor.inlineSuggest.edits.allowCodeShifting": "never",
-    "editor.inlineSuggest.edits.renderSideBySide": "never"
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "plantuml.server": "https://www.plantuml.com/plantuml"
 }
